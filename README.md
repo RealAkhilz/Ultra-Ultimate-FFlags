@@ -23,7 +23,7 @@
 - **✨ Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
 - **🚀 Faster Loading** – Load into Roblox games lighting fast.
 - **🛜 Optimize Network** - Optimize network for stable and smoother gameplays.
-- **⚡ Lower Latency** - Lower latency for smoother gameplay.
+- **⚡ Reduce Latency** - Reduce latency for smoother gameplay.
 - **🌍 Region Correction** - Easily connect to the closest server to ur location [Reduce ping]
 - **🧹 Lesser Bloat** - Remove the unneccessory bloat and background processes.
 - **📶 Optimize Ping** - Optimize ping and reduce ping in games.
