@@ -22,6 +22,16 @@
 - **🚫 Anti Data** - Stop Roblox from taking your personal information.
 - **✨ Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
 - **🚀 Faster Loading** – Load into Roblox games lighting fast.
+- **🌐 Optimize Network** - Optimize network for stable and smoother gameplays.
 - **⚡ Lower Latency** - Lower latency for smoother gameplay.
-- **⚡ Optimize Ping** - Optimize ping and get lower ping in games.
-- **⭐ Lesser Bloat** - Remove the unneccessory bloat and background processes.
+- **🧹 Lesser Bloat** - Remove the unneccessory bloat and background processes.
+- **📶 Optimize Ping** - Optimize ping and get lower ping in games.
+- **📦 Optimize Cache Sizes** - Optimize cache sizes for ping improvements and faster loading speeds.
+- **🖱️ Responsiveness** - Improved keyboard and mouse responsiveness.
+- **🧠 Optimize Memory** - Optimize memory and get rid of memory leaks.
+- **⭐ Optimize GPU and CPU** - Optimize GPU and CPU for better gameplay.
+- **📉 Reduce Lag Spikes** - Reduce lag spikes for enhanced gaming.
+- **🧬 Optimize RCores** - Optimize Roblox cores to make Roblox run buttery smooth.
+- **🔍 Culling** - Aggressively cull to boost FPS.
+- **🔊 Better Sounds** - Enhanced sounds for gameplays.
+- **🔧 Debug** - Debug Roblox.
