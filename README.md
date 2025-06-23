@@ -24,9 +24,9 @@
 - **🚀 Faster Loading** – Load into Roblox games lighting fast.
 - **🛜 Optimize Network** - Optimize network for stable and smoother gameplays.
 - **⚡ Lower Latency** - Lower latency for smoother gameplay.
-- **🌍 Region Correction** - Easily connect to your nearest server to your location.
+- **🌍 Region Correction** - Easily connect to the closest server to ur location [Reduce ping]
 - **🧹 Lesser Bloat** - Remove the unneccessory bloat and background processes.
-- **📶 Optimize Ping** - Optimize ping and get lower ping in games.
+- **📶 Optimize Ping** - Optimize ping and reduce ping in games.
 - **📦 Optimize Cache Sizes** - Optimize cache sizes for ping improvements and faster loading speeds.
 - **🖱️ Responsiveness** - Improved keyboard and mouse responsiveness.
 - **🧠 Optimize Memory** - Optimize memory and get rid of memory leaks.
