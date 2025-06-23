@@ -21,7 +21,7 @@
 
 <h2>✨ Why use Ultra-Ultimate FFlags?</h2>
 
-- **🚫 Anti Data** - Stop Roblox from taking your personal information.
+- **🚫 Anti Data Sharing** - Stop Roblox from taking your personal information.
 - **✨ Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
 - **🚀 Faster Loading** – Load into Roblox games lighting fast.
 - **🛜 Optimize Network** - Optimize network for stable and smoother gameplays.
