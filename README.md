@@ -39,24 +39,18 @@
 
 ---
 
-<h2>🌌 Verisons</h2>
-
-- **[Ultra Studio]():** Ultra-Ultimate FFlags but for **Roblox Studio**.
-- **[Ultra Android]():** Ultra Android is a verison of Ultra-Ultimate FFlags for android.
-- **[Ultra Vulken]():** Vulken verison
-- **[Ultra Metal]():** Metal/MacOS verison
-
----
-
 <h2>📥 Installation</h2>
 
-- **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
+> [!important]
+> We recommend to use [Roblox Studio Mod Manger](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) for Roblox Studio and not use normal Bootstrappers for Roblox Studio.
+
+- **Download:** Get the latest release from the [Release page]().
 - **Json Editor:** Get a json editor, like [JsonCrack](https://jsoncrack.com).
 - **Importing:** Import the file to the json editor
 - **Settings:** Change the main settings, u can change the optional settings if u want.
 - **Exporting:** Export the file after ur done with the settings.
 - **Importing:** Import the exported file into ur bootstraper.
-- **Launch Roblox:** Experience Roblox like never before!
+- **Launch Roblox Studio:** Experience Roblox Studio like never before!
 
 ---
 
@@ -71,4 +65,4 @@
 
 ---
 
-*Thanks for choosing Ultra-Ultimate FFlags. Made with 💖 by Akhil*
+*Thanks for choosing Ultra Studio. Made with 💖 by Akhil*
