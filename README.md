@@ -7,6 +7,8 @@
 > [!Caution]
 > This is the official place to download Ultra-Ultimate FFlags, any other websites offering downloads of Ultra-Ultimate FFlags is fake.
 
+---
+
 <h2>🚀 Quick Links</h2>
 
 <div align="center">
@@ -16,6 +18,8 @@
 [![Discord](https://img.shields.io/discord/1380077621974667264?label=Discord&color=5865F2&logo=discord&logoColor=white)](https://discord.gg/848BdgmvD9)
 
 </div>
+
+---
 
 <h2>✨ Why use Ultra-Ultimate FFlags?</h2>
 
@@ -37,6 +41,8 @@
 - **🔊 Better Sounds** - Enhanced sounds for gameplays.
 - **🔧 Debug** - Debug Roblox.
 
+---
+
 <h2>📥 Installation</h2>
 
 - **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
@@ -47,11 +53,17 @@
 - **Importing:** Import the exported file into ur bootstraper.
 - **Launch Roblox:** Experience Roblox like never before!
 
+---
+
 > [!important]
 > If u have any problems or facing issues, go to the [Problems page]() to see guides on how to fix.
+
+---
 
 <h2>🌌 Discord Server</h2>
 
 **Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
+
+---
 
 *Thanks for choosing Ultra-Ultimate FFlags. Made with 💖 by Akhil*
