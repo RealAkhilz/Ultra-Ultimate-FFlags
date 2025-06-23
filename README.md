@@ -7,7 +7,7 @@
 > [!Caution]
 > This is the official place to download Ultra-Ultimate FFlags, any other websites offering downloads of Ultra-Ultimate FFlags is fake.
 
-<h2>Quick Links</h3>
+<h2>🚀 Quick Links</h2>
 
 <div align="center">
 
@@ -16,3 +16,12 @@
 [![Discord](https://img.shields.io/discord/1380077621974667264?label=Discord&color=5865F2&logo=discord&logoColor=white)](https://discord.gg/848BdgmvD9)
 
 </div>
+
+<h2>✨ Why use Ultra-Ultimate FFlags?</h2>
+
+- **🚫 Anti Data** - Stop Roblox from taking your personal information.
+- **✨ Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
+- **🚀 Faster Loading** – Load into Roblox games lighting fast.
+- **⚡ Lower Latency** - Lower latency for smoother gameplay.
+- **⚡ Optimize Ping** - Optimize ping and get lower ping in games.
+- **⭐ Lesser Bloat** - Remove the unneccessory bloat and background processes.
