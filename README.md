@@ -39,4 +39,10 @@
 
 <h2>📥 Installation</h2>
 
-- **Download:** Get the latest release from the [Release page]().
+- **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
+- **Json Editor:** Get a json editor, like [JsonCrack](https://jsoncrack.com).
+- **Importing:** Import the file to the json editor
+- **Settings:** Change the main settings, u can change the optional settings if u want.
+- **Exporting:** Export the file after ur done with the settings.
+- **Importing:** Import the exported file into ur bootstraper.
+- **Launch Roblox:** Experience Roblox like never before!
