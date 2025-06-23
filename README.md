@@ -36,3 +36,7 @@
 - **🔍 Culling** - Aggressively cull to boost FPS.
 - **🔊 Better Sounds** - Enhanced sounds for gameplays.
 - **🔧 Debug** - Debug Roblox.
+
+<h2>📥 Installation</h2>
+
+- **Download:** Get the latest release from the [Release page]().
