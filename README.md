@@ -1,9 +1,9 @@
 <h1 align="center">Ultra Studio</h1>
 
-**Ultra Studio** is a verison of Ultra-Ulitmate FFlags which are for **Roblox Studio**. Create Roblox games with improved performance.
+**Ultra Studio** is a version of **Ultra-Ultimate FFlags** made for Roblox Studio. Build faster and edit smoother.
 
 > [!Caution]
-> This is the official place to download Ultra-Ultimate FFlags, any other websites offering downloads of Ultra-Ultimate FFlags is fake.
+> This is the official place to download Ultra Studio, any other websites offering downloads of Ultra Studio are fake.
 
 ---
 
