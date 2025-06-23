@@ -47,4 +47,11 @@
 - **Importing:** Import the exported file into ur bootstraper.
 - **Launch Roblox:** Experience Roblox like never before!
 
-*Thanks for choosing Ultra-Ultimate FFlags. Experience Roblox like never before!*
+> [!important]
+> If u have any problems or facing issues, go to the [Problems page]() to see guides on how to fix.
+
+<h2>🌌 Discord Server</h2>
+
+**Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
+
+*Thanks for choosing Ultra-Ultimate FFlags. Made with 💖 by Akhil*
