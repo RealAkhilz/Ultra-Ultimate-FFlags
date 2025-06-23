@@ -7,4 +7,12 @@
 > [!Caution]
 > This is the official place to download Ultra-Ultimate FFlags, any other websites offering downloads of Ultra-Ultimate FFlags is fake.
 
+<h2>Quick Links</h3>
+
+<div align="center">
+
+[![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO/total?color=2c2f7c&label=Downloads&logo=cloudsmith&logoColor=white)](https://github.com/USERNAME/REPO/releases)
+[![Latest](https://img.shields.io/badge/Latest-v1.0.4.0-2c2f7c?style=flat&logo=github&logoColor=white)](#)
 [![Discord](https://img.shields.io/discord/1380077621974667264?label=Discord&color=5865F2&logo=discord&logoColor=white)](https://discord.gg/848BdgmvD9)
+
+</div>
