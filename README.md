@@ -46,3 +46,5 @@
 - **Exporting:** Export the file after ur done with the settings.
 - **Importing:** Import the exported file into ur bootstraper.
 - **Launch Roblox:** Experience Roblox like never before!
+
+*Thanks for choosing Ultra-Ultimate FFlags. Happying gaming!*
