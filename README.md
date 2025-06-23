@@ -41,6 +41,15 @@
 
 ---
 
+<h2>🌌 Verisons</h2>
+
+- **Ultra Studio:** Ultra-Ultimate FFlags but for **Roblox Studio**.
+- **Ultra Android:** Ultra Android is a verison of Ultra-Ultimate FFlags for android.
+- **Ultra Vulken:** Vulken verison
+- **Ultra Metal:** Metal/MacOS verison
+
+---
+
 <h2>📥 Installation</h2>
 
 - **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
@@ -58,7 +67,7 @@
 
 ---
 
-<h2>🌌 Discord Server</h2>
+<h2>🪐 Discord Server</h2>
 
 **Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
 
