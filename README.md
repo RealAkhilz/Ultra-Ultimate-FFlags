@@ -47,4 +47,4 @@
 - **Importing:** Import the exported file into ur bootstraper.
 - **Launch Roblox:** Experience Roblox like never before!
 
-*Thanks for choosing Ultra-Ultimate FFlags. Happy gaming!*
+*Thanks for choosing Ultra-Ultimate FFlags. Experience Roblox like never before!*
