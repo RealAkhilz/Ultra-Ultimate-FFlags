@@ -24,7 +24,7 @@
 - **🚀 Faster Loading** – Load into Roblox games lighting fast.
 - **🛜 Optimize Network** - Optimize network for stable and smoother gameplays.
 - **⚡ Lower Latency** - Lower latency for smoother gameplay.
-- **🌍 Region Correction** - Always join your region. You can also use [RoLocate](https://greasyfork.org/en/scripts/523727-rolocate) to easily connect to the nearest server to your location.
+- **🌍 Region Correction** - Always join ur region. U can also use [RoLocate](https://greasyfork.org/en/scripts/523727-rolocate) to easily connect to the nearest server to your location.
 - **🧹 Lesser Bloat** - Remove the unneccessory bloat and background processes.
 - **📶 Optimize Ping** - Optimize ping and get lower ping in games.
 - **📦 Optimize Cache Sizes** - Optimize cache sizes for ping improvements and faster loading speeds.
