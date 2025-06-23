@@ -6,6 +6,3 @@
 
 > [!Caution]
 > This is the official place to download Ultra-Ultimate FFlags, any other websites offering downloads of Ultra-Ultimate FFlags is fake.
-
-<h2>Quick Links</h2>
-[![Discord](https://img.shields.io/discord/1380077621974667264?label=Join%20Discord&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/https://discord.gg/848BdgmvD9)
