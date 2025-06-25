@@ -30,14 +30,12 @@
 - **🛜 Optimize Network** - Optimize network for stable and smoother gameplays.
 - **⚡ Reduce Latency** - Reduce latency for smoother gameplay.
 - **🌍 Region Correction** - Easily connect to the closest server to ur location [Reduce ping]
-- **🧹 Lesser Bloat** - Remove the unneccessory bloat and background processes.
+- **🧹 Debloat** - Remove the unneccessory bloat and background processes.
 - **📶 Optimize Ping** - Optimize ping and reduce ping in games.
 - **📦 Optimize Cache Sizes** - Optimize cache sizes for ping improvements and faster loading speeds.
 - **🖱️ Responsiveness** - Improved keyboard and mouse responsiveness.
-- **🧠 Optimize Memory** - Optimize memory and get rid of memory leaks.
+- **🧠 Optimize Memory/RAM** - Optimize memory and ram usage to boost FPS
 - **⭐ Optimize GPU and CPU** - Optimize GPU and CPU for better gameplay.
-- **📉 Reduce Lag Spikes** - Reduce lag spikes for enhanced gaming.
-- **🧬 Optimize RCores** - Optimize Roblox cores to make Roblox run buttery smooth.
 - **🔍 Culling** - Aggressively cull to boost FPS.
 - **🔊 Better Sounds** - Enhanced sounds for gameplays.
 - **🔧 Debug** - Debug Roblox.
