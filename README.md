@@ -1,11 +1,11 @@
-<h1 align="center">Ultra-Ultimate FFlags</h1>
+<h1 align="center">Ultra Ultimate FFlags</h1>
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
 **Ultra-Ultimate FFlags** is a modern and feature-rich fflag list, designed to elevate your **Roblox** experience. With powerful enhanced stability, and powerful features, Ultra-Ultimate FFlags gives you full control over how you play.
 
 > [!Caution]
-> This is the official place to download Ultra-Ultimate FFlags, any other websites offering downloads of Ultra-Ultimate FFlags are fake.
+> This is the official place to download Ultra Ultimate FFlags, any other websites offering downloads of Ultra-Ultimate FFlags are fake.
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-<h2>✨ Why use Ultra-Ultimate FFlags?</h2>
+<h2>✨ Why use Ultra Ultimate FFlags?</h2>
 
 - **🚫 Anti Data Sharing** - Stop Roblox from taking your personal information.
 - **✨ Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
