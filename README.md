@@ -67,7 +67,7 @@
 ---
 
 > [!important]
-> If u have any problems or facing issues, go to the [Problems page]() to see guides on how to fix.
+> If u have any problems or facing issues, go to the [Problems page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/tree/problems) to see guides on how to fix.
 
 ---
 
