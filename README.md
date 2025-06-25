@@ -57,7 +57,7 @@
 <h2>📥 Installation</h2>
 
 - **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
-- **Json Editor:** Get a json editor, like [JsonCrack](https://jsoncrack.com).
+- **Json Editor:** Get a json editor, like [JsonCrack](https://jsoncrack.com). U can use Notepad too.
 - **Importing:** Import the file to the json editor
 - **Settings:** Change the main settings.
 - **Exporting:** Export the file after ur done with the settings.
