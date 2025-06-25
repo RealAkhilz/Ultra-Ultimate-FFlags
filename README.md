@@ -47,8 +47,8 @@
 
 <h2>🌌 Verisons</h2>
 
-- **Ultra Studio:** Ultra-Ultimate FFlags but for **Roblox Studio**. *(Not Available Yet)*
-- **Ultra Android:** Ultra Android is a verison of Ultra-Ultimate FFlags for android. *(Not Available Yet)*
+- **Ultra Studio:** Ultra Ultimate FFlags but for **Roblox Studio**. *(Not Available Yet)*
+- **Ultra Android:** Ultra Android is a verison of Ultra Ultimate FFlags for android. *(Not Available Yet)*
 - **Ultra Vulken:** Vulken verison *(Not Available Yet)*
 - **Ultra Metal:** Metal/MacOS verison *(Not Available Yet)*
 
