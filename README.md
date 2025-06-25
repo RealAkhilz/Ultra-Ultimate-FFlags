@@ -74,4 +74,4 @@
 
 ---
 
-*Thanks for choosing Ultra-Ultimate FFlags. Made with 💖 by Akhil*
+*Thanks for choosing Ultra Ultimate FFlags. Made with 💖 by Akhil*
