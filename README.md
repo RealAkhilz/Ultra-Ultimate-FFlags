@@ -40,6 +40,7 @@
 
 <h2>🌌 Verisons</h2>
 
+- **Latency++:** Reduce latency *(Not available yet)*
 - **Graphics Losser+:** Max FPS with __Graphics Loss__
 - **Ultra Studio:** Ultra Ultimate FFlags but for **Roblox Studio**. *(Not Available Yet)*
 - **Ultra Android:** Ultra Android is a verison of Ultra Ultimate FFlags for android. *(Not Available Yet)*
