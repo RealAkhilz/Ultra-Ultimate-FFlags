@@ -5,7 +5,7 @@
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
-**Ultra-Ultimate FFlags** is a modern and feature-rich fflag list, designed to elevate your **Roblox** experience. With powerful enhanced stability, and powerful features, Ultra-Ultimate FFlags gives you full control over how you play.
+**Ultra Ultimate FFlags** is a modern and feature-rich fflag list, designed to elevate your **Roblox** experience. With powerful enhanced stability, and powerful features, Ultra-Ultimate FFlags gives you full control over how you play.
 
 > [!Caution]
 > This is the official place to download Ultra Ultimate FFlags, any other websites offering downloads of Ultra Ultimate FFlags are fake.
