@@ -17,7 +17,7 @@
 <div align="center">
 
 [![guns.lol](https://img.shields.io/badge/guns.lol-RealAkhilz-darkblue?style=flat&logo=link&logoColor=white)](https://guns.lol/realakhil)
-[![Downloads](https://img.shields.io/github/downloads/RealAkhilz/Ultra-Ultimate-FFlags/total?color=2c2f7c&label=Downloads&logo=cloudsmith&logoColor=white)](https://github.com/USERNAME/REPO/releases)
+[![Downloads](https://img.shields.io/github/downloads/RealAkhilz/Ultra-Ultimate-FFlags/total?color=2c2f7c&label=Downloads&logo=cloudsmith&logoColor=white)](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases)
 ![Latest Release](https://img.shields.io/github/v/release/RealAkhilz/Ultra-Ultimate-FFlags)
 [![Discord](https://img.shields.io/discord/1380077621974667264?label=Discord&color=5865F2&logo=discord&logoColor=white)](https://discord.gg/848BdgmvD9)
 
