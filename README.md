@@ -33,7 +33,7 @@
 
 <h3>Misc</h3>
 
-Combine **Ultra Ultimate FFlags** to **[Ultra Latency](https://github.com/RealAkhilz/Ultra-Latency)** for low latency while also getting better performance.
+Combine **Ultra Ultimate FFlags** with **[Ultra Latency](https://github.com/RealAkhilz/Ultra-Latency)** for low latency while also getting better performance.
 
 ---
 
