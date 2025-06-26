@@ -1,6 +1,3 @@
-> [!important]
-> https://guns.lol/realakhil
-
 <h1 align="center">Ultra Ultimate FFlags</h1>
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
@@ -12,7 +9,7 @@
 
 ---
 
-<h2>🚀 Quick Links</h2>
+<h2>★ - Quick Links</h2>
 
 <div align="center">
 
@@ -25,48 +22,48 @@
 
 ---
 
-<h2>✨ Why use Ultra Ultimate FFlags?</h2>
+<h2>★ - Why use Ultra Ultimate FFlags?</h2>
 
-- **🚫 Anti Data Sharing** - Stop Roblox from taking your personal information.
-- **✨ Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
-- **🚀 Faster Loading** – Load into Roblox games lighting fast.
-- **⚡ Reduce Latency** - Reduce latency for smoother gameplay.
-- **🧹 Debloat** - Remove the unneccessory bloat and background processes.
-- **📦 Optimize Cache Sizes** - Optimize cache sizes for ping improvements and faster loading speeds.
-- **🔍 Culling** - Aggressively cull to boost FPS.
-- **🔊 Better Sounds** - Enhanced sounds for gameplays.
+- **Anti Data Sharing** - Stop Roblox from taking your personal information.
+- **Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
+- **Faster Loading** – Load into Roblox games lighting fast.
+- **Debloat** - Remove the unneccessory bloat and background processes.
+- **Culling** - Aggressively cull to boost FPS.
+- **Better Sounds** - Enhanced sounds for gameplays.
 
----
+<h3>Misc</h3>
 
-<h2>🌌 Verisons</h2>
-
-- **Latency++:** Reduce latency *(Not available yet)*
-- **Graphics Losser+:** Max FPS with __Graphics Loss__
-- **Ultra Studio:** Ultra Ultimate FFlags but for **Roblox Studio**. *(Not Available Yet)*
-- **Ultra Android:** Ultra Android is a verison of Ultra Ultimate FFlags for android. *(Not Available Yet)*
-- **Ultra Vulken:** Vulken verison *(Not Available Yet)*
-- **Ultra Metal:** Metal/MacOS verison *(Not Available Yet)*
+Combine **Ultra Ultimate FFlags** to **[Ultra Latency](https://github.com/RealAkhilz/Ultra-Latency)** for low latency while also getting better performance.
 
 ---
 
-<h2>📥 Installation</h2>
+<h2>★ - Verisons</h2>
 
-- **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
-- **Json Editor:** Get a json editor, like [JsonCrack](https://jsoncrack.com). U can use Notepad too.
-- **Importing:** Import the file to the json editor
-- **Settings:** Change the main settings.
-- **Exporting:** Export the file after ur done with the settings.
-- **Importing:** Import the exported file into ur bootstraper.
-- **Launch Roblox:** Experience Roblox like never before!
+- **Ultra Latency** - Reduce latency/delay [(→)](https://github.com/RealAkhilz/Ultra-Latency)
+- **Graphics Losser+** - Max FPS with __Graphics Loss__
+- **Ultra Studio** - Ultra Ultimate FFlags but for **Roblox Studio**.
+- **Ultra Android** - Ultra Android is a verison of Ultra Ultimate FFlags for android.
+- **Ultra Vulken** - Vulken verison.
+- **Ultra Metal** - Metal/MacOS verison.
 
 ---
+
+<h2>★ - Installation</h2>
+
+- **Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
+- **Json Editor** - Get a json editor, like [JsonCrack](https://jsoncrack.com). U can use Notepad too.
+- **Importing** - Import the file to the json editor
+- **Settings** - Change the main settings.
+- **Exporting** - Export the file after ur done with the settings.
+- **Importing** - Import the exported file into ur bootstraper.
+- **Launch Roblox** - Experience Roblox like never before!
 
 > [!important]
 > If u have any problems or facing issues, go to the [Problems page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/tree/problems) to see guides on how to fix.
 
 ---
 
-<h2>🪐 Discord Server</h2>
+<h2>★ - Discord Server</h2>
 
 **Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
 
