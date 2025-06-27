@@ -83,6 +83,15 @@
 </details>
 
 <details>
+ <summary><h2>★ - Changelog</h2></summary>
+
+ <br>
+
+ No changelogs
+
+</details>
+
+<details>
   <summary><h2>★ - Discord Server</h2></summary>
 
   <br>
