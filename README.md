@@ -22,12 +22,6 @@
 
 ---
 
-<h2 align="center">Ultra Ultimate V3 Update</h2>
-
-<h3 align="center">Releasing on 6/29/2025</h3>
-
----
-
 <details>
   <summary><h2>★ - Installation</h2></summary>
 
