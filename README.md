@@ -69,7 +69,7 @@
 </details>
 
 <details>
-  <summary><h2>★ - Verisons</h2></summary>
+  <summary><h2>★ - Versions</h2></summary>
 
   <br>
 
