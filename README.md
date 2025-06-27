@@ -54,35 +54,42 @@
 
 </details>
 
----
+<details>
+  <summary><h2>★ - Why use Ultra Ultimate FFlags?</h2></summary>
 
-<h2>★ - Why use Ultra Ultimate FFlags?</h2>
+  <br>
 
-- **Anti Data Sharing** - Stop Roblox from taking your personal information.
-- **Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
-- **Faster Loading** – Load into Roblox games lighting fast.
-- **Debloat** - Remove the unneccessory bloat and background processes.
-- **Culling** - Aggressively cull to boost FPS.
-- **Better Sounds** - Enhanced sounds for gameplays.
+  - **Anti Data Sharing** - Stop Roblox from taking your personal information.
+  - **Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
+  - **Faster Loading** – Load into Roblox games lighting fast.
+  - **Debloat** - Remove the unneccessory bloat and background processes.
+  - **Culling** - Aggressively cull to boost FPS.
+  - **Better Sounds** - Enhanced sounds for gameplays.
 
----
+</details>
 
-<h2>★ - Verisons</h2>
+<details>
+  <summary><h2>★ - Verisons</h2></summary>
 
-- **Ultra Latency** - Reduce latency/delay [(→)](https://github.com/RealAkhilz/Ultra-Latency)
-- **Graphics Losser+** - Max FPS with __Graphics Loss__
-- **Ultra Studio** - Ultra Ultimate FFlags but for **Roblox Studio**.
-- **Ultra Android** - Ultra Android is a verison of Ultra Ultimate FFlags for android.
-- **Ultra Vulken** - Vulken verison.
-- **Ultra Metal** - Metal/MacOS verison.
+  <br>
 
----
+  - **Ultra Latency** - Reduce latency/delay [(→)](https://github.com/RealAkhilz/Ultra-Latency)
+  - **Graphics Losser+** - Max FPS with __Graphics Loss__
+  - **Ultra Studio** - Ultra Ultimate FFlags but for **Roblox Studio**.
+  - **Ultra Android** - Ultra Android is a verison of Ultra Ultimate FFlags for android.
+  - **Ultra Vulken** - Vulken verison.
+  - **Ultra Metal** - Metal/MacOS verison.
 
+</details>
 
+<details>
+  <summary><h2>★ - Discord Server</h2></summary>
 
-<h2>★ - Discord Server</h2>
+  <br>
 
-**Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
+  **Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
+
+</details>
 
 ---
 
