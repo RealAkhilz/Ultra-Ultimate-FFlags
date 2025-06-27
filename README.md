@@ -28,22 +28,31 @@
 
 ---
 
-<h2>★ - Installation</h2>
+<details>
+  <summary><h2>★ - Installation</h2></summary>
 
-- **Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
-- **Json Editor** - Get a json editor, like [JsonCrack](https://jsoncrack.com). U can use Notepad too.
-- **Importing** - Import the file to the json editor
-- **Settings** - Change the main settings.
-- **Exporting** - Export the file after ur done with the settings.
-- **Importing** - Import the exported file into ur bootstraper.
-- **Launch Roblox** - Experience Roblox like never before!
+  <br>
 
-<h3>Misc</h3>
+  - **Download** – Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
+  - **Json Editor** – Get a JSON editor like [JsonCrack](https://jsoncrack.com), or use Notepad.
+  - **Importing** – Import the file to the editor.
 
-Combine **Ultra Ultimate FFlags** with **[Ultra Latency](https://github.com/RealAkhilz/Ultra-Latency)** for low latency while also getting better performance.
+<details>
+  <summary><strong>Settings</strong></summary>
 
-> [!important]
-> If u have any problems or facing issues, go to the [Problems page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/tree/problems) to see guides on how to fix.
+  - **Kilo Pixels** - Change the Roblox resolution (Roblox GUI or game UI unaffected).
+  - **GPU** - Set the value to your GPU.
+  - **Refresh Rate** - Set to your monitor refresh rate.
+  - **Logical Processors -1** - Set the values to your "Logical Processors" -1.
+  - **Logical Processors** - Set the values your "Logical Processors".
+  - **MTU (Optional)** - Set the fflags values to ur mtu.
+
+</details>
+
+  - **Exporting** – Export when done.
+  - **Launch Roblox** – Enjoy Roblox like never before!
+
+</details>
 
 ---
 
