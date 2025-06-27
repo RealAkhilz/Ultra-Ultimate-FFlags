@@ -22,6 +22,31 @@
 
 ---
 
+<h2 align="center">Ultra Ultimate V3 Update</h2>
+
+<h3 align="center">Releasing on 6/29/2025</h3>
+
+---
+
+<h2>★ - Installation</h2>
+
+- **Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
+- **Json Editor** - Get a json editor, like [JsonCrack](https://jsoncrack.com). U can use Notepad too.
+- **Importing** - Import the file to the json editor
+- **Settings** - Change the main settings.
+- **Exporting** - Export the file after ur done with the settings.
+- **Importing** - Import the exported file into ur bootstraper.
+- **Launch Roblox** - Experience Roblox like never before!
+
+<h3>Misc</h3>
+
+Combine **Ultra Ultimate FFlags** with **[Ultra Latency](https://github.com/RealAkhilz/Ultra-Latency)** for low latency while also getting better performance.
+
+> [!important]
+> If u have any problems or facing issues, go to the [Problems page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/tree/problems) to see guides on how to fix.
+
+---
+
 <h2>★ - Why use Ultra Ultimate FFlags?</h2>
 
 - **Anti Data Sharing** - Stop Roblox from taking your personal information.
@@ -30,10 +55,6 @@
 - **Debloat** - Remove the unneccessory bloat and background processes.
 - **Culling** - Aggressively cull to boost FPS.
 - **Better Sounds** - Enhanced sounds for gameplays.
-
-<h3>Misc</h3>
-
-Combine **Ultra Ultimate FFlags** with **[Ultra Latency](https://github.com/RealAkhilz/Ultra-Latency)** for low latency while also getting better performance.
 
 ---
 
@@ -48,20 +69,7 @@ Combine **Ultra Ultimate FFlags** with **[Ultra Latency](https://github.com/Real
 
 ---
 
-<h2>★ - Installation</h2>
 
-- **Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
-- **Json Editor** - Get a json editor, like [JsonCrack](https://jsoncrack.com). U can use Notepad too.
-- **Importing** - Import the file to the json editor
-- **Settings** - Change the main settings.
-- **Exporting** - Export the file after ur done with the settings.
-- **Importing** - Import the exported file into ur bootstraper.
-- **Launch Roblox** - Experience Roblox like never before!
-
-> [!important]
-> If u have any problems or facing issues, go to the [Problems page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/tree/problems) to see guides on how to fix.
-
----
 
 <h2>★ - Discord Server</h2>
 
