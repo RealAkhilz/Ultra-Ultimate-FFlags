@@ -77,7 +77,24 @@
 
  <br>
 
- No changelogs
+<h3>
+
+- Revamped the ENTIRE list
+- Lessen the kb of the list from 24 kb to 5 kb
+- Added KTX
+- Removed FFlags containing keywords "Network" and "Performance", as they have default values
+- Removed FrameTime and MTU from the settings
+- Removed a bunch of preloading fastflags that are useless
+- Removed a bunch of useless culling fastflags
+- Removed unstable and problematic fastflags
+- Removed "CAP" from "Anti Data Sharing"
+- Removed "Optimize ping" fastflags as they don't really stabilize or optimize ping
+- Removed Extra fastflags
+- Removed "GPU and CPU" and "Optimize Memory/RAM" fastflags, as they don't really optimize gpu or cpu, there are still memory/ram fastflags that decrease usage of memory/ram
+- Removed a bunch of useless "Debloat" fastflags
+- Merged "Responsiveness", "Frame Buffer", into "Performance"
+- Removed fastflags that are unstable
+- Changed some fastflags values to stable values
 
 </details>
 
