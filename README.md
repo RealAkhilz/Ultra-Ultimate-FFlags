@@ -69,7 +69,7 @@
 
   - **Ultra Latency** - Reduce latency/delay [(→)](https://github.com/RealAkhilz/Ultra-Latency)
   - **Graphics Losser+** - Max FPS with __Graphics Loss__
-  - **Ultra Studio** - Ultra Ultimate FFlags but for **Roblox Studio**.
+  - **Universal Studio** - Ultra Ultimate FFlags but for **Roblox Studio**.
 
 </details>
 
