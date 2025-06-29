@@ -70,9 +70,6 @@
   - **Ultra Latency** - Reduce latency/delay [(→)](https://github.com/RealAkhilz/Ultra-Latency)
   - **Graphics Losser+** - Max FPS with __Graphics Loss__
   - **Ultra Studio** - Ultra Ultimate FFlags but for **Roblox Studio**.
-  - **Ultra Android** - Ultra Android is a verison of Ultra Ultimate FFlags for android.
-  - **Ultra Vulken** - Vulken verison.
-  - **Ultra Metal** - Metal/MacOS verison.
 
 </details>
 
