@@ -39,7 +39,6 @@
   - **Refresh Rate** - Set to your monitor refresh rate.
   - **Logical Processors -1** - Set the values to your "Logical Processors" -1.
   - **Logical Processors** - Set the values your "Logical Processors".
-  - **MTU (Optional)** - Set the fflags values to ur mtu.
 
 </details>
 
