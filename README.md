@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary><h2>★ - Why use Ultra Universal FFlags?</h2></summary>
+  <summary><h2>★ - Why use Universal FFlags?</h2></summary>
 
   <br>
 
