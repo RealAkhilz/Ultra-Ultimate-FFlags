@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RealAkhilz/Universal-FFlags/main/UniversalFFlagsIcon.png" alt="UniversalFFlags" width="26" style="vertical-align:middle; margin-right:8px;">
-  <strong>Universal FFlags</strong>
-</p>
+<h1>
+  <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/UniversalFFlagsIcon.png" alt="U Icon" width="40" style="vertical-align:middle; margin-right:10px;">
+  Universal FFlags
+</h1>
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
