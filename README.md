@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/RealAkhilz/Universal-FFlags/main/UniversalFFlagsIcon.png"
-       alt="Universal FFlags logo" width="90">
+  <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/UniversalFFlagsIcon.png" 
+       alt="Universal FFlags Icon" width="100">
 
-  <h1>Universal&nbsp;FFlags</h1>
+  <h1>Universal FFlags</h1>
 
 </div>
 
