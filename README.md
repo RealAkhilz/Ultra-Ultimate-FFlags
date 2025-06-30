@@ -52,7 +52,7 @@
 
   <br>
 
-  - **Anti Data Sharing** - Stop Roblox from taking your personal information.
+  - **Anti Data Sharing** - Stop Roblox from taking ur device info.
   - **Enhanced Performance** – Smoother gameplay, reduced stuttering, and better FPS stability.
   - **Faster Loading** – Load into Roblox games lighting fast.
   - **Debloat** - Remove the unneccessory bloat and background processes.
