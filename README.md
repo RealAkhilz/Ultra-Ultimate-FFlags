@@ -1,11 +1,11 @@
-<h1 align="center">Ultra Ultimate FFlags</h1>
+<h1 align="center">Universal FFlags</h1>
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
-**Ultra Ultimate FFlags** is a modern and feature-rich fflag list, designed to elevate your **Roblox** experience. With powerful enhanced stability, and powerful features, Ultra-Ultimate FFlags gives you full control over how you play.
+**Universal FFlags** is a modern and feature-rich fflag list, designed to elevate your **Roblox** experience. With powerful enhanced stability, and powerful features, Universal FFlags gives you full control over how you play.
 
 > [!Caution]
-> This is the official place to download Ultra Ultimate FFlags, any other websites offering downloads of Ultra Ultimate FFlags are not controlled by us.
+> This is the official place to download Universal FFlags, any other websites offering downloads of Ultra Universal FFlags are not controlled by us.
 
 ---
 
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary><h2>★ - Why use Ultra Ultimate FFlags?</h2></summary>
+  <summary><h2>★ - Why use Ultra Universal FFlags?</h2></summary>
 
   <br>
 
