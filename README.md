@@ -1,9 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/UniversalFFlagsIcon.png" 
-       alt="Universal FFlags Icon" width="100">
-
-  <h1>Universal FFlags</h1>
+<img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/UniversalFFlagsTemp.png" width="500">
 
 </div>
 
