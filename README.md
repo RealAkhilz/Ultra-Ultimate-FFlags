@@ -13,7 +13,9 @@
 
 ---
 
-<h2>★ - Quick Links</h2>
+<h2>
+  <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Quick Links
+</h2>
 
 <div align="center">
 
@@ -27,7 +29,11 @@
 ---
 
 <details>
-  <summary><h2>★ - Installation Guide</h2></summary>
+  <summary>
+    <h2>
+      <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Installation Guide
+    </h2>
+  </summary>
 
   <br>
 
@@ -52,7 +58,11 @@
 </details>
 
 <details>
-  <summary><h2>★ - Why use Universal FFlags?</h2></summary>
+  <summary
+    ><h2>
+      <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Why use Universal FFlags?
+    </h2>
+  </summary>
 
   <br>
 
@@ -64,7 +74,11 @@
 </details>
 
 <details>
-  <summary><h2>★ - Versions</h2></summary>
+  <summary>
+    <h2>
+      <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Versions
+    </h2>
+  </summary>
 
   <br>
 
@@ -75,7 +89,11 @@
 </details>
 
 <details>
- <summary><h2>★ - Changelog</h2></summary>
+ <summary>
+   <h2>
+     <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Changelog
+   </h2>
+ </summary>
 
  <br>
 
@@ -101,7 +119,10 @@
 </details>
 
 <details>
-  <summary><h2>★ - Discord Server</h2></summary>
+  <summary>
+    <h2><img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Discord Server
+    </h2>
+  </summary>
 
   <br>
 
