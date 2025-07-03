@@ -1,3 +1,5 @@
+<!-- Ttitle -->
+
 <div align="center">
 
 <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/UniversalFFlagsTemp.png" width="500">
@@ -12,6 +14,7 @@
 > This is the official place to download Universal FFlags, any other websites offering downloads of Ultra Universal FFlags are not controlled by us.
 
 ---
+<!-- Quick Links -->
 
 <h2>
   <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Quick Links
@@ -27,33 +30,145 @@
 </div>
 
 ---
+<!-- Installtion Guide -->
 
-<details>
-  <summary>
-    <h2>
-      <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Installation Guide
-    </h2>
-  </summary>
+<h2>
+  <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/stars.png" width="30" height="30"> Installation Guide
+</h2>
 
-  <br>
-
-  - **Download** – Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
-  - **Json Editor** – Get a JSON editor like [JsonCrack](https://jsoncrack.com), or use Notepad.
-  - **Importing** – Import the file to the editor.
-
+<!-- Download dropdown -->
 - <details>
-  <summary><strong>Settings</strong></summary>
+    <summary><strong>Download</strong></summary>
 
-  - **Kilo Pixels** - Change the Roblox resolution (Roblox GUI or game UI unaffected).
-  - **GPU** - Set the value to your GPU.
-  - **Refresh Rate** - Set to your monitor refresh rate.
-  - **Logical Processors -1** - Set the values to your "Logical Processors" -1.
-  - **Logical Processors** - Set the values your "Logical Processors".
+  - Download the latest version from the [Release page](https://github.com/RealAkhilz/Universal-FFlags/releases).
+
+</details>
+
+<!-- Settings Dropdown -->
+- <details>
+    <summary><strong>Settings</strong></summary>
+
+  <!-- Rendering Quality Setting Dropdown -->
+    - <details>
+        <summary><strong>Rendering Quality</strong></summary>
+      <br>
+    
+      **Set the value of the below quality values**
+      <br>
+      **This changes Roblox rendering quality (Roblox GUI and game UI uneffected)**
+      <br>
+      144P - 37 │ 240P - 102 │ 360P - 230 │ 480P - 410 │ 720P - 922 │ 1080P - 2074 / 2K - 3686 │ 4K - 8294 │ 8K - 33178
+
+      <pre>
+      DFIntDebugDynamicRenderKiloPixels
+      </pre>
+
+      </details>
+
+  <!-- GPU Setting Dropdown -->
+    - <details>
+      <summary><strong>GPU</strong></summary>
+      <br>
+    
+      **Set the value of ur GPU**
+      <br>
+      **Go to Task Manager > Performance > GPU, to check what GPU u are using**
+
+      <pre>
+      FStringDebugGraphicsPreferredGPUName
+      </pre>
+
+      </details>
+
+  <!-- Refresh Rate Setting Dropdown -->
+    - <details>
+      <summary><strong>Refresh Rate</strong></summary>
+      <br>
+    
+      **Set the value of ur max refresh rate**
+
+      <pre>
+      DFIntGraphicsOptimizationModeFRMFrameRateTarget
+      </pre>
+
+      </details>
+
+  <!-- FrameTime Setting Dropdown -->
+    - <details>
+      <summary><strong>Frametime</strong></summary>
+      <br>
+    
+      **Set the value of frametime depending on ur hz**
+
+      <pre>
+      DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs
+      DFIntGraphicsOptimizationModeMinFrameTimeTargetMs
+      </pre>
+
+      </details>
+
+  <!-- Logical Processors Setting Dropdown -->
+    - <details>
+      <summary><strong>Logical Processors</strong></summary>
+      <br>
+    
+      **Set the value of ur "Logical Processors" minus 1**
+
+      <pre>
+      DFIntRuntimeConcurrency
+      FIntTaskSchedulerAutoThreadLimit
+      </pre>
+
+      **Set the value of ur "Logical Processors"**
+
+      <pre>
+      FIntLuaGcParallelMinMultiTasks
+      FIntSmoothClusterTaskQueueMaxParallelTasks
+      DFIntPhysicsReceiveNumParallelTasks
+      DFIntNetworkClusterPacketCacheNumParallelTasks
+      DFIntReplicationDataCacheNumParallelTasks
+      DFIntMegaReplicatorNumParallelTasks
+      DFIntInterpolationNumParallelTasks
+      </pre>
+
+      </details>
+
+  <!-- Force Sky Gray Setting Dropdown -->
+    - <details>
+      <summary><strong>Gray Skybox (Optional)</strong></summary>
+      <br>
+    
+      **Set the value to "true" to enable gray skybox**
+
+      <pre>
+      FFlagDebugSkyGray
+      </pre>
+
+      </details>
 
   </details>
 
-- **Exporting** – Export when done.
-- **Launch Roblox** – Enjoy Roblox like never before!
+<!-- Bootstrapper dropdown -->
+- <details>
+    <summary><strong>Bootstrapper</strong></summary>
+
+    - Import the .json file into ur bootstrapper, after ur done configureing the settings.
+
+<!-- Launch Dropdown -->
+- <details>
+    <summary><strong>Launch Roblox</strong></summary>
+
+    - Launch Roblox and experience like never before!
+
+</details>
+
+<br>
+
+> [!Important]
+> If you have any problems in the installtion guide
+> See the wiki *(not available)* or join the [Discord server](rGdPF82Tmf)
+
+---
 
 </details>
 
@@ -126,7 +241,7 @@
 
   <br>
 
-  **Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
+  **Join our Discord:** [Akhil's Lounge](https://discord.gg/rGdPF82Tmf) for help, news, and chat.
 
 </details>
 
