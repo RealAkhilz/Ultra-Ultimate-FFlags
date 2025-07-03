@@ -27,7 +27,7 @@
 ---
 
 <details>
-  <summary><h2>★ - Installation</h2></summary>
+  <summary><h2>★ - Installation Guide</h2></summary>
 
   <br>
 
