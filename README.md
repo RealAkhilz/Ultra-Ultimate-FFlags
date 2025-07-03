@@ -44,10 +44,10 @@
   - **Logical Processors -1** - Set the values to your "Logical Processors" -1.
   - **Logical Processors** - Set the values your "Logical Processors".
 
-</details>
+  </details>
 
-  - **Exporting** – Export when done.
-  - **Launch Roblox** – Enjoy Roblox like never before!
+- **Exporting** – Export when done.
+- **Launch Roblox** – Enjoy Roblox like never before!
 
 </details>
 
