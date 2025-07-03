@@ -35,7 +35,7 @@
   - **Json Editor** – Get a JSON editor like [JsonCrack](https://jsoncrack.com), or use Notepad.
   - **Importing** – Import the file to the editor.
 
-<details>
+- <details>
   <summary><strong>Settings</strong></summary>
 
   - **Kilo Pixels** - Change the Roblox resolution (Roblox GUI or game UI unaffected).
