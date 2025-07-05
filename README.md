@@ -168,7 +168,7 @@
 
 > [!Important]
 > If you have any problems in the installtion guide
-> See the wiki *(not available)* or join the [Discord server](rGdPF82Tmf)
+> See the [Wiki](https://github.com/RealAkhilz/Universal-FFlags/wiki) or join the [Discord server](rGdPF82Tmf)
 
 ---
 
