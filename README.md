@@ -8,7 +8,7 @@
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
-**Universal FFlags** is a modern and feature-rich fflag list, designed to elevate your **Roblox** experience. With powerful enhanced stability, and powerful features, Universal FFlags gives you full control over how you play.
+**Universal FFlags** is a modern, well-structured, and feature-rich FFlag list designed to elevate your **Roblox** experience with enhanced stability, performance, and optimization-focused FastFlags.
 
 <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/UniversalFFlags.png" width="3840" height="2160">
 
