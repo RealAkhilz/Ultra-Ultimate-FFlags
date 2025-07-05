@@ -13,7 +13,7 @@
 <img src="https://github.com/RealAkhilz/Universal-FFlags/blob/main/Images/UniversalFFlags.png" width="3840" height="2160">
 
 > [!Caution]
-> This is the official place to download Universal FFlags, any other websites offering downloads of Ultra Universal FFlags are not controlled by us.
+> The only official places to download Universal FFlags are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
 ---
 <!-- Quick Links -->
